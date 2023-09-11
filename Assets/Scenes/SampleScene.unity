@@ -261,7 +261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbac12a4a0d98064a8e410b561dff2e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imageUrl: https://cdn.discordapp.com/attachments/946491728326709308/1150720033568329859/download.jpeg
+  imageUrl: https://cdn.discordapp.com/attachments/946491728326709308/1150720234433560717/image_2023_09_11T06_29_44_465Z.png
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
