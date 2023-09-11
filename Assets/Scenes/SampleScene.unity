@@ -261,7 +261,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbac12a4a0d98064a8e410b561dff2e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   imageUrl: https://cdn.discordapp.com/attachments/946491728326709308/1150700633607917628/inappropriate-clothing-scantily-dressed-young-caucasian-woman-tourist-D357D1.jpg
+=======
+  imageUrl: https://cdn.discordapp.com/attachments/946491728326709308/1150720033568329859/download.jpeg
+>>>>>>> parent of 9336cd3 (Update SampleScene.unity)
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
