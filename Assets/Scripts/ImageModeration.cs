@@ -70,8 +70,6 @@ public class ImageModeration : MonoBehaviour
             }
             else
                 Debug.Log("No Inappropriate content found");
-
-            
         }
     }
 }
